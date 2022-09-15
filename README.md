@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdubindaclub
-- 👀 I’m interested in data science, programming golf, and machine learning
+- 👀 I’m interested in data science, golf, and skydiving :)
 - 🌱 I’m currently learning data science methods and programming skills
 - 📫 How to reach me jdubwhit7@gmail.com
 
